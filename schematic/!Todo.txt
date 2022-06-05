@@ -1,0 +1,1 @@
+GPIO pins for atwinc1500 need to be changed to match code
